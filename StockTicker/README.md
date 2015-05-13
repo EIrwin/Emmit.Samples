@@ -21,4 +21,4 @@ To run this sample, follow the instructions below:
 
 3. Browse to the app at `http://localhost:8000/app/index.html`
     
-4. Run the `StockTicker` console application from Visual Studio or a command prompt.
+4. Run the `Emmit.Samples/StockTicker` console application from Visual Studio or a command prompt.
